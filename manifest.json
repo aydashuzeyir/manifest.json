@@ -1,0 +1,16 @@
+{
+  "name": "Luna Media",
+  "short_name": "Luna",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#09090b",
+  "theme_color": "#ec4899",
+  "description": "Luna Media Player və Yükləmə Tətbiqi",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3076/3076753.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
